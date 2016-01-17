@@ -11,6 +11,7 @@ http://localhost:8090/mongo.show dbs
 
 ```
 ![](/img/example.png)
+
 打开chrome的postman工具
 ``` 
 post http://localhost:8090/mongo/DB/C.save(&httprequestbody)
