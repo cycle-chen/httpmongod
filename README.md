@@ -10,7 +10,7 @@ http方式的mongod服务,提供增删改查的仿mongoshell命令接口
 http://localhost:8090/mongo.show dbs
 
 ```
-![](/img/example.png)
+![](https://github.com/golangdeveloper/httpmongod/blob/master/img/example.png?raw=true)
 
 打开chrome的postman工具
 ``` 
